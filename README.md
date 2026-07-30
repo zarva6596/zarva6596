@@ -1,5 +1,7 @@
 <h1 align="center">Roman Zarvanskyi</h1>
 
+<a href="https://www.zarva.life">personal web-site</a>
+
 <p align="center">
   Frontend Engineer &nbsp;·&nbsp; Vue 3 / Nuxt 3 &nbsp;·&nbsp; React / Next.js &nbsp;·&nbsp; Full-Stack (NestJS)
 </p>
